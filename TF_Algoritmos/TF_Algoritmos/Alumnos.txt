@@ -1,0 +1,6 @@
+string int float .
+Nombre Edad Promedio .
+SEBAS 19 18 
+BILL 35 16 
+MARCO 19 11.5 
+PATO 7 10.25 
